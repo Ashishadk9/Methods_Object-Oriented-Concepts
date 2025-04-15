@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CheckerNumber
+comment0.text=\n\ Write\ a\ description\ of\ class\ CheckerNumber\ here.\n\ \n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=number
+comment1.target=void\ checkNumber(int)
+comment2.params=number\ checkEvenOdd
+comment2.target=void\ checkNumber(int,\ boolean)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
